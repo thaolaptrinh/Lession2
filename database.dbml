@@ -1,0 +1,5 @@
+Table categories {
+  id int [pk, increment]
+  name varchar(225) [not null, unique]
+  parent_id int [default: null, ref: > categories.id]
+}

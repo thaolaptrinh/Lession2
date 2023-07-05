@@ -1,0 +1,23 @@
+{
+  "name": "thaonguyen/internship",
+  "description": "",
+  "autoload": {
+    "psr-4": {
+      "App\\Core\\": "app/core/",
+      "App\\Controllers\\": "app/controllers/",
+      "App\\Models\\": "app/models"
+    },
+    "files": [
+      "helpers/functions.php"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Nguyen Van Thao",
+      "email": "thaolaptrinh@gmail.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.5"
+  }
+}

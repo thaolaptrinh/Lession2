@@ -11,7 +11,7 @@ Test internship
 git clone https://github.com/thaolaptrinh/Lession2.git
 ```
 
-1. Installation is super-easy via [Composer](https://getcomposer.org/):
+2. Installation is super-easy via [Composer](https://getcomposer.org/):
 
 ```bash
 $ composer update
